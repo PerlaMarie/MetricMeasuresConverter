@@ -14,3 +14,8 @@ This proyect works with Meters, Kilometers, Centimeters and Milimeters
 
 How do I use it?
 Create a txt file, as specified in "Txt Format" (the metrics must be in Uppercase, and in its short version. Ex: Meter = "M"). Put the path in the program, and execute!
+
+
+
+
+Link to first design of proyect: https://drive.google.com/open?id=14Bhn0tZdfv8_q9rOvTPK1gXavWTKfIFn
